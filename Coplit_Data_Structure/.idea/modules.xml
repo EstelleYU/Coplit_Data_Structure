@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coplit_Data_Structure.iml" filepath="$PROJECT_DIR$/.idea/Coplit_Data_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_03_Browser_backward_forward/Stack_Queue_03_Browser_backward_forward.iml" filepath="$PROJECT_DIR$/Stack_Queue_03_Browser_backward_forward/Stack_Queue_03_Browser_backward_forward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_04_Boxes_wapping/Stack_Queue_04_Boxes_wapping.iml" filepath="$PROJECT_DIR$/Stack_Queue_04_Boxes_wapping/Stack_Queue_04_Boxes_wapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack_Queue_05_Advanced_Queue_printer/Stack_Queue_05_Advanced_Queue_printer.iml" filepath="$PROJECT_DIR$/Stack_Queue_05_Advanced_Queue_printer/Stack_Queue_05_Advanced_Queue_printer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stack_Queue_03_Browser_backward_forward" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stack_Queue_04_Boxes_wapping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stack_Queue_05_Advanced_Queue_printer" vcs="Git" />
+  </component>
+</project>

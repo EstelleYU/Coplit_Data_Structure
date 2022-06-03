@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_New_Solution_Folder/00_New_Solution_Folder.iml" filepath="$PROJECT_DIR$/00_New_Solution_Folder/00_New_Solution_Folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/01_Greedy_movingStuff/01_Greedy_movingStuff.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/01_Greedy_movingStuff/01_Greedy_movingStuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/02_Greedy_NumberOfCoinsRequired/02_Greedy_NumberOfCoinsRequired.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/02_Greedy_NumberOfCoinsRequired/02_Greedy_NumberOfCoinsRequired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/03_implementation_BoardGame/03_implementation_BoardGame.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/03_implementation_BoardGame/03_implementation_BoardGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/04_Advanced_DP_HowManyWaysToRobTheSafe/04_Advanced_DP_HowManyWaysToRobTheSafe.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/04_Advanced_DP_HowManyWaysToRobTheSafe/04_Advanced_DP_HowManyWaysToRobTheSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/05_rockPaperScissors/05_rockPaperScissors.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/05_rockPaperScissors/05_rockPaperScissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/06_NewSauceRecipe/06_NewSauceRecipe.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/06_NewSauceRecipe/06_NewSauceRecipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/09_Graph_adjacency_list/09_Graph_adjacency_list.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/09_Graph_adjacency_list/09_Graph_adjacency_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/11_Adjacency_matrix_find_path/11_Adjacency_matrix_find_path.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/11_Adjacency_matrix_find_path/11_Adjacency_matrix_find_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/13_DFS_BarCode/13_DFS_BarCode.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/13_DFS_BarCode/13_DFS_BarCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_07boringBlackJack/Algorithm_07boringBlackJack.iml" filepath="$PROJECT_DIR$/Algorithm_07boringBlackJack/Algorithm_07boringBlackJack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeStates_Coplit.iml" filepath="$PROJECT_DIR$/.idea/CodeStates_Coplit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Algorithm/Coplit_Algorithm.iml" filepath="$PROJECT_DIR$/Coplit_Algorithm/Coplit_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Stream/Coplit_Stream.iml" filepath="$PROJECT_DIR$/Coplit_Stream/Coplit_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_03_Browser_backward_forward/Stack_Queue_03_Browser_backward_forward.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_03_Browser_backward_forward/Stack_Queue_03_Browser_backward_forward.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_04_Boxes_wapping/Stack_Queue_04_Boxes_wapping.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_04_Boxes_wapping/Stack_Queue_04_Boxes_wapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_05_Advanced_Queue_printer/Stack_Queue_05_Advanced_Queue_printer.iml" filepath="$PROJECT_DIR$/Coplit_Data_Structure/Stack_Queue_05_Advanced_Queue_printer/Stack_Queue_05_Advanced_Queue_printer.iml" />
+    </modules>
+  </component>
+</project>
